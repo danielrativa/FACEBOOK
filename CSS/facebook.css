@@ -1,0 +1,104 @@
+body{
+    background-color: white;
+}
+.content{
+    display: flex;
+    background-color: #F2F4F7;
+    padding: 72px 0 112px 0;
+    justify-content: center;
+}
+img{
+    width: 320.938px;
+    height: 106px;
+}
+.frase{
+    color: #1C1E21;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+.header{
+    padding-right: 32px;
+    width: 548px;
+    height: 298.078px;
+}
+.logo{
+    padding: 112px 0 16px 0;
+}
+.BoxOne{
+    width: 396px;
+    height: 496px;
+}
+.BoxInicio{
+    margin-top: 40px;
+    padding: 10px 0 24px 0;
+    width: 396px;
+    height: 315.828px;
+
+    border-radius: 19px;
+    background: #ffffff;
+    box-shadow:  5px 5px 35px #ebebeb,
+             -5px -5px 35px #ffffff;
+}
+.input{
+    width: 364px;
+    height: 52px;
+    padding: 6px 0 6px 0;
+    justify-content: end;
+}
+.datos{
+    width: 330px;
+    height: 22px;
+    padding: 14px 16px;
+    border: 1px #E8E9EB solid;
+}
+.boton-inicio{
+    width: 396px;
+    height: 48px;
+    padding-top: 16px;
+}
+.btnInicio{
+    width: 364px;
+    height: 48px;
+    border-radius: 6px;
+    padding: 0 16px 0 16px;
+    box-sizing: border-box;
+    background-color: #0866FF;
+    color: white;
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: bold;
+}
+.olvidaste{
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #0866FF;
+}
+.text{
+    margin: 16;
+    width: 396px;
+    height: 18.750px;
+}
+.separador{
+    margin: 20px 16px;
+    width: 364px;
+    height: 0;
+    border-top: 1px #E8E9EB solid;
+}
+.boton-crear{
+    width: 396px;
+    height: 54px;
+    padding-top: 6px;
+}
+.btnCrear{
+    width: 189.969px;
+    height: 48px;
+    border-radius: 6px;
+    padding: 0 16px 0 16px;
+    box-sizing: border-box;
+    background-color: #43B72A;
+    color: white;
+    font-size: 17px;
+    font-family: inherit;
+    font-weight: bold;
+}
